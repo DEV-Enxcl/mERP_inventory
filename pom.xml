@@ -12,7 +12,7 @@
 	<artifactId>mERPinventory</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>mERPinventory</name>
-	<description>Micro - ERP Project - Inventory Service</description>
+	<description>Inventory Service of merp</description>
 	<url/>
 	<licenses>
 		<license/>
